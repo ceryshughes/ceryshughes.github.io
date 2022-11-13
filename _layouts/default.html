@@ -5,10 +5,15 @@
 		<title> {{ page.title }}</title>
 	</head>
 	<body>
-	<table><tr>
-	<td><a href="ceryshughes.github.io/"> Home </a></td>
-	<td><a href="ceryshughes.github.io/about/"> About </a></td>
-	</tr></table>
+<table>
+<tr>
+<td>
+   {% for item in site.data.navlist.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</td>
+</tr>
+</table>
 		
 		
 		{{ content }}

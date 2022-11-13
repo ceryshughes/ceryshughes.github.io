@@ -1,0 +1,7 @@
+docs:
+
+- title: Home
+  url: index.html
+
+- title: About
+  url: about
