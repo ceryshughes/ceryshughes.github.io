@@ -12,72 +12,9 @@ author_profile: true
       <div class="author__bio" itemprop="description">
         <p> ceryshughes@umass.edu </p>
 <p> Third year Linguistics PhD student at The University of Massachusetts Amherst </p>
-
-      </div>
-    
   </div>
 
-
-            
-        
-          
-            <li><a href="https://github.com/ceryshughes" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">Github</span></a></li>
-          
-        
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-  
-    </ul>
-  </div>
-</div>
+     <div>  <ul> <li> <a href="https://github.com/ceryshughes" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">Github</span></a></li> </ul> </div>
 
   
   </div>
