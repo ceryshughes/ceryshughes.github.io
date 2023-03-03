@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default_1
 author_profile: true
 
 
