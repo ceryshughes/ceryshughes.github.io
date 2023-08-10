@@ -8,7 +8,7 @@ layout: my_blank_layout
 <li><a href="#research">Research Materials</a></li>
 <li><a href="#teaching">Teaching Materials</a></li>
 <li><a href="https://github.com/ceryshughes">Github</a></li></ul></nav>
-<img src="/files/personal/my_picture.jpg">
+<img src="/files/personal/my_picture.jpg" width="500" height="333">
 <h3>/k&#603;&#633;&#618;s hjuz/ </h3>I'm a current 3rd year PhD student at the University of Massachusetts Amherst. I'm interested in the mechanisms by which speech perception and learning influence phonological typology. I use computational method to implement hypotheses so that they can be tested against experimental data from human participants. I also probe the behavior of computational models, such as neural networks, so we can better understand their predictions. 
 <section id="cv">
         <h2><a href = "files/personal/CV.pdf"> CV </a> </h2>
