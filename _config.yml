@@ -38,13 +38,12 @@ author:
 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dirt"
+
 plugins:
   - jekyll-feed
   - github-pages
   - jekyll-include-cache
-  - jekyll-remote-theme
+ 
  
 
 # Exclude from processing.
