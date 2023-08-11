@@ -31,8 +31,13 @@ layout: my_blank_layout
         <li> <a href = "/files/personal/luganda/phonetic_implementation_high_tone_spans_luganda_2.mp4" >LabPhon 2022 poster video </a> </li>
         <li> <a href = "/files/personal/luganda/ICPhS Phonetic implementation of phonologically different high tone plateaus in Luganda.pptx"> ICPhS 2023 talk </a> </li>
         </ul>
-        
+<h4>Learning Stress Systems Under Differnet Representations</h4>
+Collaborators: Joe Pater, Alessa Farinella, Seung Suk Lee
+<ul>
+<li> <a href="https://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/5441"> AMP proceedings paper </a></li>
+</ul>   
     </section>
+
     
 <section id="teaching">
 <h2>Teaching Materials</h2>
