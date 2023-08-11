@@ -34,7 +34,7 @@ layout: my_blank_layout
 <h4>Learning Stress Systems Under Differnet Representations</h4>
 Collaborators: Joe Pater, Alessa Farinella, Seung Suk Lee
 <ul>
-<li> <a href="https://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/5441"> AMP proceedings paper </a></li>
+<li> <a href="https://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/5441"> AMP 2022 supplemental proceedings paper </a></li>
 </ul>   
     </section>
 
