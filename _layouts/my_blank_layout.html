@@ -2,6 +2,147 @@
 <html>
   <head>
     <title>Cerys Hughes</title>
+    <style>
+     /* Reset default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set a background color or image */
+body {
+  background-color: #ffebf4;
+  /* You can also set a background image like this:
+  background-image: url('your-image-url.jpg');
+  background-size: cover;
+  */
+}
+
+/* Styling for h1 */
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+  
+}
+
+/* Styling for h2 */
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* Styling for h3 */
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  text-align: center;
+  
+}
+
+p {
+ font-size: 16px
+}
+
+/* Styling for sections */
+section {
+  padding: 20px;
+  background-color: #f1f9f2;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* Make intro background light brown */
+section.intro {
+  background-color: #f7e5d2;
+}
+
+section.project {
+background-color: #e4c9d4;
+padding: 15px;
+margin: 5px;
+}
+
+a {
+ color: #2f4d4b;
+}
+
+a:hover {
+  color: #458096; /* Change this to your desired link color on hover */
+}
+
+a:active {
+  color: #bf0f7f;
+}
+
+/* Styling for the navigation bar */
+nav {
+  padding: 10px 0;
+  
+}
+
+/* Style for the list of navigation links */
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+background-color:#e3fade
+  border-radius: 4px;
+}
+
+/* Style for individual navigation list items */
+nav li {
+  margin: 0 10px;
+}
+
+/* Style for navigation links */
+nav a {
+  color: #0f0f0f;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+/* Change link color on hover */
+nav a:hover {
+  color: #ffd700;
+}
+
+/* Styling for the boxes around each list item */
+nav li {
+  border: 2px solid #325925;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+  background-color: #c0dca9; /* Light mossy green background color */
+}
+
+/* Change box background color on hover */
+nav li:hover {
+  background-color: #8fa87d; /* Darker mossy green background color on hover */
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+
+    </style>
   </head>
   <body>
     {{ content }}
