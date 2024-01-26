@@ -61,5 +61,8 @@ Collaborators: Joe Pater, Alessa Farinella, Seung Suk Lee
 <p>Introduction to neural networks 
 (Python <a href="/files/personal/teaching/592B_Speech_Processing/Perceptrons.ipynb"> notebook1 </a>,<a href="/files/personal/teaching/592B_Speech_Processing/Vowel_Perceptrons.ipynb">notebook2</a>). Created for a class of students (UMass LING592B) that had linear algebra and some coding background but were new to neural networks. Warning! There is an intentional mistake in the presentation of the Perceptron Update Rule formula in notebook1. Can you find it? :) </p> 
 </section>
+<section class="project">
+<a href = "https://ceryshughes.github.io/ling201sp24"> Ling 201 Discussion Section Webpage </a>
+</section>
 </section>
 
