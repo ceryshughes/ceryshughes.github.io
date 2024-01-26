@@ -27,11 +27,12 @@ layout: my_blank_layout
 <h2> Announcements </h2>
 
 <h2> Materials </h2>
+
 <table>
 <tr>
-	<td><strong>Week</strong></td>
-	<td><strong>Topic</strong></td>
-	<td><strong>Materials</strong>/td>
+	<th>Week</th>
+	<th>Topic</th>
+	<th>Materials</th>
 </tr>
 <tr>
 	<td>Feb 9</td>

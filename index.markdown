@@ -55,7 +55,7 @@ Collaborators: Joe Pater, Alessa Farinella, Seung Suk Lee
 <section id="teaching">
 <h2>Teaching Materials</h2>
 <section class="project">
-<p>Mixture of Gaussians in Phonetics and Sound Change lesson for UMass LING492b (<a href = "/files/personal/teaching/Computational_Linguistics/Gaussian_Mixture_Model_Phonetics.pdf" >Slides </a>).</p>
+<p>Mixture of Gaussians in Phonetics and Sound Change lecture for UMass LING492b (<a href = "/files/personal/teaching/Computational_Linguistics/Gaussian_Mixture_Model_Phonetics.pdf" >Slides </a>).</p>
 </section>
 <section class="project">
 <p>Introduction to neural networks 
