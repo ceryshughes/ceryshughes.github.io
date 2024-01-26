@@ -1,6 +1,7 @@
 ---
 layout: my_blank_layout
 ---
+<section>
 <h1> Discussion Sections AA and AB </h1>
 <h1> Ling 201 </h1>
 <br>
@@ -40,6 +41,7 @@ layout: my_blank_layout
 	<td></td>
 </tr>
 </table>
+</section>
 
 
 
