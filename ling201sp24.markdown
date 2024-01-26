@@ -28,7 +28,7 @@ layout: my_blank_layout
 
 <h2> Materials </h2>
 
-<table>
+<table style="width:100%">
 <tr>
 	<th>Week</th>
 	<th>Topic</th>
