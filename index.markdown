@@ -14,7 +14,7 @@ layout: my_blank_layout
 <br>
 <img src="/files/personal/official_pic.jpg" width="333" height="333" class="center">
 <br>
-I'm a current 4th year PhD student at the University of Massachusetts Amherst. I'm interested in the mechanisms by which speech perception and learning influence phonological typology. I use computational methods to implement hypotheses so that they can be tested against experimental data from human participants. I also probe the behavior of computational models, such as neural networks, so we can better understand their predictions. 
+I'm currently a 4th year PhD student at the University of Massachusetts Amherst. I'm interested in the mechanisms by which speech perception and learning influence phonological typology. I use computational methods to implement hypotheses so that they can be tested against experimental data from human participants. I also probe the behavior of computational models, such as neural networks, so we can better understand their predictions. 
 
 </section>
 
