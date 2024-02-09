@@ -25,7 +25,7 @@ navlink4: https://github.com/ceryshughes
 <br>
 I'm currently a 4th year PhD student at the University of Massachusetts Amherst. I'm interested in the mechanisms by which speech perception and learning influence phonological typology. I use computational methods to implement hypotheses so that they can be tested against experimental data from human participants. I also probe the behavior of computational models, such as neural networks, so we can better understand their predictions. 
 
-</section>
+
 
   
 
