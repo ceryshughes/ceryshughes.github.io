@@ -2,11 +2,11 @@
 layout: lcars_layout
 title: Ling 201
 navtitle1: Contact
-navlink1: "https://ceryshughes.github.io#contact"
+navlink1: "https://ceryshughes.github.io/ling201sp24#contact"
 navtitle2: Slides
-navlink2: "https://ceryshughes.github.io#slides"
+navlink2: "https://ceryshughes.github.io/ling201sp24#slides"
 navtitle3: Announcements
-navlink3: "https://ceryshughes.github.io#announcements"
+navlink3: "https://ceryshughes.github.io/ling201sp24#announcements"
 navtitle4: Cerys
 navlink4: "https://ceryshughes.github.io"
 ---
@@ -15,7 +15,7 @@ navlink4: "https://ceryshughes.github.io"
 
 <h1 class="go-butterscotch"> Welcome! </h1>
 
-<h4 class = "go-butterscotch"> This is the webpage for UMass Ling 201's Discussion Sections AA and AB in Spring 2024 </h4>
+<h4 class = "go-butterscotch"> This is the webpage for UMass Ling 201's Discussion Sections AA and AB in Spring 2024.</h4>
 
 <h2> Section AA </h2>
 <ul class="lcars-list">
