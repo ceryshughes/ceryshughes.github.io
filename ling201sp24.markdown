@@ -64,6 +64,7 @@ navlink4: "https://ceryshughes.github.io"
 <h2> Slides </h2>
 <ul class="lcars-list">
 <li> <a href = "/files/personal/teaching/Ling201Sp24/1_Intro_Stops_Fricatives.pdf">Feb 9: Introductions, Practice with Stops and Fricatives </a></li>
+<li class="go-gold"> <a href = "/files/personal/teaching/Ling201Sp24/2_IPA_Transcription_Practice.pdf">Feb 16: IPA Transcription Practice </a></li>
 </ul>
 
 
