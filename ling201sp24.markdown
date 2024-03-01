@@ -66,7 +66,7 @@ navlink4: "https://ceryshughes.github.io"
 <li> <a href = "/files/personal/teaching/Ling201Sp24/1_Intro_Stops_Fricatives.pdf">Feb 9: Introductions, Practice with Stops and Fricatives </a></li>
 <li class="go-gold"> <a class="go-gold" href = "/files/personal/teaching/Ling201Sp24/2_IPA_Transcription_Practice.pdf">Feb 16: IPA Transcription Practice </a></li>
 <li class="go-gold"> <a href = "/files/personal/teaching/Ling201Sp24/3_Assignment_1_2.pdf">Feb 23: Going over Assignments 1 and 2 </a></li>
-<li> <a class ="go-gold" href = "/files/personal/teaching/Ling201Sp24/4_Phonology_Review">March 1: Phonology Review, Assignment 3 </a></li>
+<li> <a class ="go-gold" href = "/files/personal/teaching/Ling201Sp24/4_Phonology_Review.pdf">March 1: Phonology Review, Assignment 3 </a></li>
 </ul>
 
 
