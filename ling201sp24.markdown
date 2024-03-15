@@ -68,6 +68,7 @@ navlink4: "https://ceryshughes.github.io"
 <li> <a href = "/files/personal/teaching/Ling201Sp24/3_Assignment_1_2.pdf">Feb 23: Going over Assignments 1 and 2 </a></li>
 <li> <a class ="go-gold" href = "/files/personal/teaching/Ling201Sp24/4_Phonology_Review.pdf">March 1: Phonology Review, Assignment 3 </a></li>
 <li> <a href = "/files/personal/teaching/Ling201Sp24/5_Phonology_Practice.pdf">March 8: Phonology Practice</a></li>
+<li> <a class ="go-gold" href = "/files/personal/teaching/Ling201Sp24/6_Phonology_Practice_2.pdf">March 15: More Phonology Practice </a></li>
 </ul>
 
 
