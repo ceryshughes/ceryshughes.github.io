@@ -70,6 +70,7 @@ navlink4: "https://ceryshughes.github.io"
 <li> <a href = "/files/personal/teaching/Ling201Sp24/5_Phonology_Practice.pdf">March 8: Phonology Practice</a></li>
 <li> <a class ="go-gold" href = "/files/personal/teaching/Ling201Sp24/6_Phonology_Practice_2.pdf">March 15: More Phonology Practice </a></li>
 <li> March 18: Here are some more phonology datasets you can practice analyzing. Like the datasets in discussion section, these are not for any sort of grade; they are entirely optional practice. <a href = "/files/personal/teaching/Ling201Sp24/more_phonology_practice.pdf"> Click here for phonology problems </a> </li>
+<li> <a class = "go-gold" href = "/files/personal/teaching/Ling201Sp24/201_section_assign6_tips.pdf">April 5: Returning midterms and guidance for doing assignment 6</a></li>
 </ul>
 
 
