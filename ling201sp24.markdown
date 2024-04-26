@@ -72,6 +72,7 @@ navlink4: "https://ceryshughes.github.io"
 <li> March 18: Here are some more phonology datasets you can practice analyzing. Like the datasets in discussion section, these are not for any sort of grade; they are entirely optional practice. <a href = "/files/personal/teaching/Ling201Sp24/more_phonology_practice.pdf"> Click here for phonology problems </a> </li>
 <li> <a class = "go-gold" href = "/files/personal/teaching/Ling201Sp24/201_section_assign6_tips.pdf">April 5: Returning midterms and guidance for doing assignment 6</a></li>
 <li> <a href = "/files/personal/teaching/Ling201Sp24/6_morphology_syntax.pdf">April 19: Morphology and Syntax</a></li>
+<li> <a class = "go-gold" href = "/files/personal/teaching/Ling201Sp24/201_Midterm_2_Review.pdf">April 19: Morphology and Syntax</a></li>
 </ul>
 
 
