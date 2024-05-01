@@ -1441,7 +1441,13 @@ p {
 }
 
 p.ipa{
+	margin-top: 1.15rem;
+	margin-bottom: 1rem;
+	font-weight: normal;
+	line-height: 1.2;
+	font-size: clamp(1.6rem, 1.04rem + 2.24vw, 2.3rem);
 	text-align: right;
+	font-family: Arial
 }
 
 .caption	{
