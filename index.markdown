@@ -13,7 +13,7 @@ navlink4: https://github.com/ceryshughes
 <div class="row">
 	<div class="column">
 	<h1>Cerys Hughes</h1>
-	<p style="font-family: Arial">/k&#603;&#633;&#618;s hjuz/ </p>
+	<h2 style="font-family: Arial">/k&#603;&#633;&#618;s hjuz/ </h2>
 	</div> 
 	<div class="column">
 	<img src="/files/personal/my_picture.jpg" width="450" height="333"/>
