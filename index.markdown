@@ -10,20 +10,41 @@ navlink3: teaching_materials
 navtitle4: Github
 navlink4: https://github.com/ceryshughes
 ---
-<section class="intro">
-<h1>Cerys Hughes</h1>
-<p>/k&#603;&#633;&#618;s hjuz/ <p>
-<br>
+<div class="row">
+	<div class="column">
+	<h1>Cerys Hughes</h1>
+	<h2>/k&#603;&#633;&#618;s hjuz/ </h2>
+	</div> 
+	<div class="column">
+	<img src="/files/personal/my_picture.jpg" width="450" height="333"/>
+	</div>
+</div>
+	
 <nav>
 <ul>
 <!-- <a href="files/personal/CV.pdf"><li>CV</li></a> -->
 <!-- <a href="#research"><li>Projects and Publications</li></a> -->
 <!-- <a href="#teaching"><li>Teaching Materials</li></a> -->
 <!-- <a href="https://github.com/ceryshughes"><li>GitHub</li></a></ul></nav> -->
-<br>
-<img src="/files/personal/official_pic.jpg" width="333" height="333" class="center">
-<br>
-I'm currently a 4th year PhD student at the University of Massachusetts Amherst. I'm interested in the mechanisms by which speech perception and learning influence phonological typology. I use computational methods to implement hypotheses so that they can be tested against experimental data from human participants. I also probe the behavior of computational models, such as neural networks, so we can better understand their predictions. 
+
+<ul class="lcars-list">
+<li> Hi! </li>
+<li> I'm currently a 4th year linguistics PhD student at UMass Amherst. </li>
+</ul>
+I'm interested in:
+<ul class="lcars-list">
+<li> Phonetic category learning </li>
+<li> Speech perception </li>
+<li> Phonological typology </li>
+<li> The mechanisms by which phonetics and learning affect phonological typology </li>
+</ul>
+The methods I use are:
+<ul class="lcars-list">
+<li> Computationally implementing hypotheses to test against experimental data from human participants </li>
+<li> Probing the behavior of computational models, such as neural networks, so we can better understand their predictions </li>
+</ul>
+
+
 
 
 
