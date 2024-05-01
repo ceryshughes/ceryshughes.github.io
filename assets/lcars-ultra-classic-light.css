@@ -1440,6 +1440,10 @@ p {
 	margin-block: 1rem;
 }
 
+p.ipa{
+	text-align: right;
+}
+
 .caption	{
 	margin-top: .5rem;
 	text-align: center;
