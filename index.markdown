@@ -38,12 +38,17 @@ I'm interested in:
 <li> Phonological typology </li>
 <li> The mechanisms by which phonetics and learning affect phonological typology </li>
 </ul>
+<br>
 The methods I use are:
 <ul class="lcars-list">
 <li> Computationally implementing hypotheses to test against experimental data from human participants </li>
 <li> Probing the behavior of computational models, such as neural networks, so we can better understand their predictions </li>
 </ul>
-
+<br>
+Past education:
+<ul class="lcars-list">
+<li> B.S. in Computer Science (AI specialization) and Linguistics, The Ohio State University 2016-2020  </li>
+</ul>
 
 
 
