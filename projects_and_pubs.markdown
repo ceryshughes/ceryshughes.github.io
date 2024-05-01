@@ -10,7 +10,7 @@ navlink3: teaching_materials
 navtitle4: Github
 navlink4: https://github.com/ceryshughes
 ---
-<h2>Projects and Publications</h2>
+<h1>Projects and Publications</h1>
 
 
 <section>
