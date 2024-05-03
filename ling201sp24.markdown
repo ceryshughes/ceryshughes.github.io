@@ -73,6 +73,7 @@ navlink4: "https://ceryshughes.github.io"
 <li> <a class = "go-gold" href = "/files/personal/teaching/Ling201Sp24/201_section_assign6_tips.pdf">April 5: Returning midterms and guidance for doing assignment 6</a></li>
 <li> <a href = "/files/personal/teaching/Ling201Sp24/6_morphology_syntax.pdf">April 19: Morphology and Syntax</a></li>
 <li> <a class = "go-gold" href = "/files/personal/teaching/Ling201Sp24/201_Midterm_2_Review.pdf">April 26: Midterm 2 Review</a></li>
+<li> <a href = "/files/personal/teaching/Ling201Sp24/assign9tips.pdf">May 3: Assignment 9 Tips</a></li>
 </ul>
 
 
