@@ -29,7 +29,7 @@ navlink4: https://github.com/ceryshughes
 
 <ul class="lcars-list">
 <li> Hi! </li>
-<li> I'm currently a 4th year linguistics PhD student at UMass Amherst. </li>
+<li> I'm currently a 5th year linguistics PhD student at UMass Amherst. </li>
 </ul>
 I'm interested in:
 <ul class="lcars-list">
