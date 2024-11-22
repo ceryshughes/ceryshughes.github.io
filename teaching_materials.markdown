@@ -15,15 +15,7 @@ navlink4: https://github.com/ceryshughes
 <div class="lcars-bar">
 </div>
 
-<section>
-<p>"Mixture of Gaussians in Phonetics and Sound Change" lecture for UMass LING492b </p>
-<div class="buttons">
-  <a href="/files/personal/teaching/Computational_Linguistics/Gaussian_Mixture_Model_Phonetics.pdf" class="sunflower" >Slides</a>
-</div>
-</section>
 
-<div class="lcars-bar">
-</div>
 <section>
   <p> Since Canvas is down, here are the lab materials for today!  </p>
   <p> Part 1: https://drive.google.com/file/d/13jF2wdpF4DWUIXdSEa7KoI9QeCDfuat0/view?usp=drive_link </p>
@@ -32,6 +24,19 @@ navlink4: https://github.com/ceryshughes
   <p>Final presentation poll: will add soon </p>
 </section>
 
+<div class="lcars-bar">
+</div>
+
+<section>
+<p>"Mixture of Gaussians in Phonetics and Sound Change" lecture for UMass LING492b </p>
+<div class="buttons">
+  <a href="/files/personal/teaching/Computational_Linguistics/Gaussian_Mixture_Model_Phonetics.pdf" class="sunflower" >Slides</a>
+</div>
+</section>
+
+
+<div class="lcars-bar">
+</div>
 
 <section>
 <p>Tutorial introducing neural networks (starting from perceptrons) in the form of 2 Python notebooks.  </p>
