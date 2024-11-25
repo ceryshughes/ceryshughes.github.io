@@ -15,15 +15,6 @@ navlink4: https://github.com/ceryshughes
 <div class="lcars-bar">
 </div>
 
-
-<section>
-  <p> Since Canvas is down, here are the lab materials for today!  </p>
-  <p> Part 1: https://drive.google.com/file/d/13jF2wdpF4DWUIXdSEa7KoI9QeCDfuat0/view?usp=drive_link </p>
-  <p> Part 2: https://drive.google.com/file/d/1lxsm76Ctc_rqkUfu3GEWv14jlFArdk5t/view?usp=drive_link </p>
-  <p> Attendance poll: https://forms.gle/GchzQJBYsprAMYFTA </p>
-  <p>Final presentation poll: will add soon </p>
-</section>
-
 <div class="lcars-bar">
 </div>
 
