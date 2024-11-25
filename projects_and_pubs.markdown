@@ -16,8 +16,17 @@ navlink4: https://github.com/ceryshughes
 <section>
 <h3> Quantifying the Relationship between Typology, Phonetic Biases, and Learning: Nasal Vowels </h3>
 <ul class="lcars-list">
-<li> Poster to appear at Highlights in the Language Sciences (2024): <a href="/files/personal/phonetic_bias/modeling_nasal_vowel_inv_hils.pdf"> Abstract </a> </li>
+<li> Poster at Highlights in the Language Sciences (2024): <a href="/files/personal/phonetic_bias/modeling_nasal_vowel_inv_hils.pdf"> Abstract </a> </li>
 </ul>
+</section>
+
+<div class="lcars-bar">
+</div>
+
+<section>
+<h3> Learning and Generalization of Morphological Patterns with Lexically-Conditioned Exceptions </h3>
+        <li> Pattern Structure Modulates Learning of Lexically Conditioned Morphology. Cerys Hughes & Gaja Jarosz. <a href = "https://virtual.oxfordabstracts.com/event/31397/submission/170">Poster at Architectures and Mechanisms for Language Processing (AMLaP) </a>. Edinburgh, Scotland, September 5-7, 2024. <a href = "files/personal/Morphological_structure_modulates_regularization_AMLAP24_ (1).pdf" > Poster </a> </li>
+        <li> Type and Token Frequency Jointly Drive Learning of Morphology. Gaja Jarosz, Cerys Hughes, Andrew Lamont, Brandon Prickett, Maggie Baird, Seoyoung Kim, and Max Nelson. <a href = "https://osf.io/preprints/psyarxiv/mbp24"> PsyAXiv Preprint </a> </li>
 </section>
 
 <div class="lcars-bar">
@@ -26,7 +35,7 @@ navlink4: https://github.com/ceryshughes
 <section>
 <h3> Syllable Segmentation </h3>
 <ul class="lcars-list">
-<li> Poster to appear at Highlights in the Language Sciences (2024): <a href="/files/personal/syllable/hils_syll_seg.pdf"> Abstract </a> </li></ul>
+<li> Poster at Highlights in the Language Sciences (2024): <a href="/files/personal/syllable/hils_syll_seg.pdf"> Abstract </a> </li></ul>
 </section>
 
 
